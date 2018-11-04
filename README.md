@@ -3,7 +3,7 @@
 This repository contains a Jupyter notebook which can be used in a workshop about k-means clustering using the [*120 years of Olympic history: athletes and results*](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results) dataset available on Kaggle.
 
 ## Installation/Set-up
-- You will need [miniconda](https://conda.io/miniconda.html) (or the full [anaconda])(https://www.anaconda.com/download/#macos) for Python 3.7. Allow it to prepend the install location to your path.
+- You will need [miniconda](https://conda.io/miniconda.html) (or the full [anaconda](https://www.anaconda.com/download/#macos)) for Python 3.7. Allow it to prepend the install location to your path.
 - (Don't forget to source your `.bash_profile` so bash can find the `conda` binary!)
 - Clone this repo
 - Using the `environment.yml` file, create a new conda environment:
